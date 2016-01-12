@@ -1,0 +1,110 @@
+package com.helloging;
+
+import android.app.Activity;
+import android.content.Intent;
+import android.os.Bundle;
+import android.util.Log;
+import android.view.Menu;
+import android.view.MenuItem;
+import android.view.View;
+import android.widget.Button;
+import android.widget.EditText;
+import android.widget.TextView;
+
+
+public class Hellogingting extends Activity {
+	
+	private TextView tv;
+
+	
+
+    @Override
+    protected void onCreate(Bundle savedInstanceState) {
+        super.onCreate(savedInstanceState);
+        Hellogingting.this.setContentView(R.layout.login);
+        tv = (TextView).tv.findViewById(R.id.login_textView1);
+       
+       bt = (Button).bt.findViewById(R.id.login_button1);
+    bt.setOnClickListener(new Button.OnClickListener(){
+
+		@Override
+		public void onClick(View v) {
+			// TODO Auto-generated method stub
+			if(ed1.getText().toString().equalsIgnoreCase("Ching")&&ed2.getText().toString().equalsIgnoreCase("12334"));
+		
+			{
+    	        tv.setText(Hellogingting.this.getResources().getString(R.string.success));
+		    tv.setTextColor(Hellogingting.this.getResources().getColor(R.color.color_blue));
+		
+		     }
+			else
+			{
+		
+			tv.setText(Hellogingting.this.getResources().getString(R.string.error));
+		    tv.setTextColor(Hellogingting.this.getResources().getColor(R.color.color_red));
+		}
+    }
+    
+		});
+    
+    tv.setOnLongClickListener(new TextView.setOnLongClickListener(){
+    	@Override
+    	 public boolean OnLongClick(View v){
+    		ed1.setText("Ching");
+    		ed2.setText("12334");
+    		return false;
+    	}
+    		
+    
+    });
+    }
+    
+    protected void onCreate(Bundle savedInstanceState);
+    protected void onStart;
+    Protected void onRestart;
+    protected void onResume;
+    protected void onPause;
+    protected void onStop;
+    Protected void OnDestroy;
+    private String TAG ="CHING_DEBUG";
+    
+    Log.i(TAG,onCreate);
+    Log.i(TAG,onStart);
+    Log.i(TAG,onResume);
+    Log.i(TAG,onPause);
+    Log.i(TAG,onStop);
+    
+}
+Intent intent = new Intent;
+intent.setClass(Hellogingting.this, loginok.class);
+try
+{
+	Hellogingting.this.startActivities(intents);
+}
+catch(Exception e){
+	e.printStackTrace();
+	Log.e(TAG,e.toString());
+}
+Hellogingting.this.finish();
+
+
+    /*@Override
+    public boolean onCreateOptionsMenu(Menu menu) {
+        // Inflate the menu; this adds items to the action bar if it is present.
+        getMenuInflater().inflate(R.menu.helloging, menu);
+        return true;
+    }
+
+    @Override
+    public boolean onOptionsItemSelected(MenuItem item) {
+        // Handle action bar item clicks here. The action bar will
+        // automatically handle clicks on the Home/Up button, so long
+        // as you specify a parent activity in AndroidManifest.xml.
+        int id = item.getItemId();
+        if (id == R.id.action_settings) {
+            return true;
+        }
+        return super.onOptionsItemSelected(item);
+    }
+}
+*/

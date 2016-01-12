@@ -1,0 +1,221 @@
+2016-01-06 19:13:47,075 [Worker-651] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Collecting project info '/pom.xml' /Users/ging0117/Documents/workspace/common/pom.xml
+2016-01-06 19:13:48,628 [Worker-651] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:13:49,874 [Worker-651] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2016-01-06 19:13:49,879 [Worker-651] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2016-01-06 19:13:49,967 [Worker-651] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Imported and configured 1 project(s) in 2 sec
+2016-01-06 19:13:50,334 [Worker-653] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:13:50,335 [Worker-653] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:13:50,339 [Worker-653] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:13:50,339 [Worker-653] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:28:09,083 [Worker-658] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:28:09,354 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:28:09,354 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:28:09,358 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:28:09,358 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:28:10,880 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:28:10,880 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:28:10,882 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:28:10,883 [Worker-658] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:31:37,874 [main] INFO  o.e.m2e.actions.ExecutePomAction - Creating new launch configuration
+2016-01-06 19:32:14,377 [Worker-658] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 19:32:14,380 [Worker-658] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 19:38:12,330 [Worker-664] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:38:13,302 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:13,302 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:38:13,306 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:13,306 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:38:13,313 [Worker-664] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of common
+2016-01-06 19:38:13,315 [Worker-664] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for common
+2016-01-06 19:38:13,351 [Worker-664] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:39,425 [Worker-665] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.maven.ide.eclipse.wtp.WarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:38:40,451 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:40,451 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:38:40,457 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:40,458 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:38:40,458 [Worker-665] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Changed resources require a complete clean of filtered resources of common
+2016-01-06 19:38:40,458 [Worker-665] INFO  o.e.m.w.i.f.ResourceFilteringBuildParticipant - Executing resource filtering for common
+2016-01-06 19:38:40,470 [Worker-665] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:38:46,946 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-01-06 19:38:47,078 [Worker-663] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 19:38:47,079 [Worker-663] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 19:44:54,669 [Worker-668] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:44:54,881 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:44:54,881 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:44:54,884 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:44:54,885 [Worker-668] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:45:10,999 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-01-06 19:45:11,107 [Worker-670] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 19:45:11,107 [Worker-670] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 19:49:17,926 [Worker-669] ERROR o.e.m2e.editor.pom.MavenPomEditor - failed to load maven project for org.eclipse.ui.part.FileEditorInput(/common/pom.xml)
+org.eclipse.core.runtime.CoreException: Could not read maven project
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.readProjectWithDependencies(ProjectRegistryManager.java:804) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:999) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager$6.call(ProjectRegistryManager.java:1) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache$1.load(LocalCache.java:4724) ~[na:na]
+	at com.google.common.cache.LocalCache$LoadingValueReference.loadFuture(LocalCache.java:3522) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.loadSync(LocalCache.java:2315) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.lockedGetOrLoad(LocalCache.java:2278) ~[na:na]
+	at com.google.common.cache.LocalCache$Segment.get(LocalCache.java:2193) ~[na:na]
+	at com.google.common.cache.LocalCache.get(LocalCache.java:3932) ~[na:na]
+	at com.google.common.cache.LocalCache$LocalManualCache.get(LocalCache.java:4721) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.getMavenProject(ProjectRegistryManager.java:997) ~[na:na]
+	at org.eclipse.m2e.core.internal.project.registry.MavenProjectFacade.getMavenProject(MavenProjectFacade.java:242) ~[na:na]
+	at org.eclipse.m2e.core.ui.internal.actions.SelectionUtil.getMavenProject(SelectionUtil.java:261) ~[org.eclipse.m2e.core.ui_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor.readMavenProject(MavenPomEditor.java:729) ~[na:na]
+	at org.eclipse.m2e.editor.pom.MavenPomEditor$5.run(MavenPomEditor.java:1050) ~[na:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+2016-01-06 19:49:18,056 [Worker-671] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'verison' (position: START_TAG seen ...</artifactId>\n<verison>... @15:10) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'verison' (position: START_TAG seen ...</artifactId>\n<verison>... @15:10) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:152) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseParent(MavenXpp3Reader.java:2569) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2038) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-01-06 19:49:19,350 [Worker-668] ERROR o.e.m.c.i.p.r.ProjectRegistryManager - Could not read pom.xml
+org.eclipse.core.runtime.CoreException: Could not read pom.xml
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:565) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:574) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refreshPhase2(ProjectRegistryManager.java:541) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:497) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:350) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.project.registry.ProjectRegistryManager.refresh(ProjectRegistryManager.java:297) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.getProjectFacade(MavenBuilder.java:154) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod$1.call(MavenBuilder.java:89) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.executeBare(MavenExecutionContext.java:176) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:151) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.embedder.MavenExecutionContext.execute(MavenExecutionContext.java:99) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder$BuildMethod.execute(MavenBuilder.java:86) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.m2e.core.internal.builder.MavenBuilder.build(MavenBuilder.java:200) [org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$2.run(BuildManager.java:734) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:205) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:245) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager$1.run(BuildManager.java:300) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42) [org.eclipse.equinox.common_3.7.0.v20150402-1709.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuild(BuildManager.java:303) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.basicBuildLoop(BuildManager.java:359) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.BuildManager.build(BuildManager.java:382) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.doBuild(AutoBuildJob.java:144) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.events.AutoBuildJob.run(AutoBuildJob.java:235) [org.eclipse.core.resources_3.10.0.v20150423-0755.jar:na]
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55) [org.eclipse.core.jobs_3.7.0.v20150330-2103.jar:na]
+Caused by: org.apache.maven.model.io.ModelParseException: Unrecognised tag: 'verison' (position: START_TAG seen ...</artifactId>\n<verison>... @15:10) 
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:130) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:94) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	at org.eclipse.m2e.core.internal.embedder.MavenImpl.readModel(MavenImpl.java:563) ~[org.eclipse.m2e.core_1.6.0.20150526-2032.jar:na]
+	... 24 common frames omitted
+Caused by: org.codehaus.plexus.util.xml.pull.XmlPullParserException: Unrecognised tag: 'verison' (position: START_TAG seen ...</artifactId>\n<verison>... @15:10) 
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.checkUnknownElement(MavenXpp3Reader.java:152) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseParent(MavenXpp3Reader.java:2569) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.parseModel(MavenXpp3Reader.java:2038) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:3807) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.xpp3.MavenXpp3Reader.read(MavenXpp3Reader.java:557) ~[maven-model-3.3.3.jar:3.3.3]
+	at org.apache.maven.model.io.DefaultModelReader.read(DefaultModelReader.java:125) ~[maven-model-builder-3.3.3.jar:3.3.3]
+	... 26 common frames omitted
+2016-01-06 19:55:25,365 [Worker-672] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:57:06,422 [Worker-671] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:59:24,341 [Worker-673] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 19:59:25,245 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:59:25,246 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:59:25,246 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:59:25,249 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:59:25,249 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 19:59:26,830 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:59:26,830 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:59:26,830 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 19:59:26,834 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 19:59:26,834 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:00:12,522 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-01-06 20:00:12,577 [Worker-672] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 20:00:12,577 [Worker-672] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 20:07:05,928 [Worker-675] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 20:07:06,595 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:07:06,595 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:07:06,595 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:07:06,601 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:07:06,601 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:07:08,595 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:07:08,596 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:07:08,596 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:07:08,598 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:07:08,598 [Worker-675] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:07:23,952 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-01-06 20:07:24,028 [Worker-671] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 20:07:24,029 [Worker-671] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 20:11:00,547 [Worker-671] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 20:11:01,571 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:01,572 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:01,572 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:01,578 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:01,578 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:11:03,819 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:03,819 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:03,819 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:03,823 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:03,824 [Worker-673] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:11:19,108 [main] INFO  o.e.m2e.actions.ExecutePomAction - Using existing launch configuration
+2016-01-06 20:11:19,174 [Worker-677] INFO  o.e.m.i.launch.MavenLaunchDelegate - /Users/ging0117/Documents/workspace/common
+2016-01-06 20:11:19,174 [Worker-677] INFO  o.e.m.i.launch.MavenLaunchDelegate -  mvn  -B clean install
+2016-01-06 20:11:54,353 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:54,353 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:54,353 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:11:54,355 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:11:54,355 [Worker-677] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:13:54,095 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:13:54,096 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:13:54,096 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:13:54,099 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:13:54,099 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:15:02,884 [Worker-675] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update started
+2016-01-06 20:15:03,565 [Worker-675] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 20:15:04,479 [Worker-675] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/main/java
+2016-01-06 20:15:04,480 [Worker-675] INFO  o.e.m.j.i.AbstractJavaProjectConfigurator - Adding source folder /common/src/test/java
+2016-01-06 20:15:04,921 [Worker-675] INFO  o.e.m.c.i.p.ProjectConfigurationManager - Update completed: 2 sec
+2016-01-06 20:15:05,654 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:15:05,654 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:15:05,654 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:15:05,659 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:15:05,660 [Worker-678] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:17:54,364 [Worker-671] INFO  o.e.m.c.i.l.LifecycleMappingFactory - Using org.eclipse.m2e.jdt.JarLifecycleMapping lifecycle mapping for MavenProject: com.calypso.loan:common:0.0.1-SNAPSHOT @ /Users/ging0117/Documents/workspace/common/pom.xml.
+2016-01-06 20:17:54,932 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:17:54,932 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:17:54,932 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:17:54,937 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:17:54,937 [Worker-671] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources
+2016-01-06 20:17:55,849 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:17:55,849 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:17:55,849 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/main/resources
+2016-01-06 20:17:55,859 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - Using 'UTF-8' encoding to copy filtered resources.
+2016-01-06 20:17:55,860 [Worker-674] INFO  o.e.m.c.i.embedder.EclipseLogger - skip non existing resourceDirectory /Users/ging0117/Documents/workspace/common/src/test/resources

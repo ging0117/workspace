@@ -1,0 +1,16 @@
+package com.calypso.java.equals;
+
+public class EqualsManager {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		UserEquals obj = new UserEquals();
+		obj.name = "F";
+		obj.ssn = 24;
+		UserEquals obj2 = new UserEquals();
+		obj2.name = "f";
+		obj2.ssn = 36;
+		
+	}
+
+}

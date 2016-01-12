@@ -1,0 +1,25 @@
+package com.calypso.training.map;
+
+import java.util.HashMap;
+import java.util.Map;
+
+public class MapExample {
+	
+	static Map<Integer, String> dataMap= new HashMap<>();
+	private static void populateMap(){
+		dataMap.put(23, "Fremont");
+		dataMap.put(null, null);
+		dataMap.put(4, "NewWork");
+		dataMap.put(23, "fremont");
+		
+	}
+
+	
+	
+	public static void main(String[] args)
+	{
+		
+		
+		
+	}
+}

@@ -1,0 +1,56 @@
+package com.calypso.training.map;
+
+import java.util.HashMap;
+import java.util.Iterator;
+import java.util.Map;
+import java.util.Map.Entry;
+import java.util.Set;
+
+public class MapExample {
+
+	static Map<Integer, String> dataMap = new HashMap<>();
+
+	// static is using class
+	private static void populateMap() {
+		dataMap.put(23, "Fremont");
+		//dataMap.put(null, null);
+		dataMap.put(4, "NewWork");
+		dataMap.put(23, "fremont");
+
+	}
+
+	public static void fetchByKeys() {
+
+		Set<Integer> keySet = dataMap.keySet();
+		for (int data : keySet) {
+
+			System.out.println("Key" + data);
+			System.out.println("Value" + dataMap.get(data));
+
+		}
+
+	}
+
+	public static void fetchByEntries(){
+		
+		Set<Entry<Integer, String>> entrySet= dataMap.entrySet();
+		Iterator<Entry<Integer,String>> itr=entrySet.iterator();
+		while(itr.hasNext()){
+			
+			Entry<Integer,String> entry=itr.next();
+		
+			System.out.println("Key"+entry.getKey());
+			System.out.println("Value"+entry.getValue());
+		dataMap.put(27, "SJC");
+			
+		}
+	}
+	
+	
+	public static void main(String[] args) {
+
+		populateMap();
+		fetchByKeys();
+		fetchByEntries();
+	}
+}

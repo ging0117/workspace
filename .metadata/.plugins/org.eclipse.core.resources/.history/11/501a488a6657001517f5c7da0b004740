@@ -1,0 +1,7 @@
+package com.calypso.java.equals;
+
+public class UserEquals {
+	public String name;
+	public int ssn;
+
+}

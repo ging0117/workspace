@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy 2 elements to &apos;Training/src/com.calypso.training.Factory&apos;&#x0A;- Original project: &apos;calypso&apos;&#x0A;- Destination element: &apos;Training/src/com.calypso.training.Factory&apos;&#x0A;- Original elements:&#x0A;     com.calypso.java.factory.UserFactory.java&#x0A;     com.calypso.java.factory.UserFactoryI.java" description="Copy compilation units" destination="=Training/src&lt;com.calypso.training.Factory" element1="/src&lt;com.calypso.java.factory{UserFactory.java" element2="/src&lt;com.calypso.java.factory{UserFactoryI.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1449198355661" units="2" version="1.0"/>
+</session>

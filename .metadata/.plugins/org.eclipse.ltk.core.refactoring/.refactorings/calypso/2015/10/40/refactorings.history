@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename compilation unit &apos;com.calypso.java.collection.Map.java&apos; to &apos;nnnn.java&apos;&#x0A;- Original project: &apos;calypso&apos;&#x0A;- Original element: &apos;com.calypso.java.collection.Map.java&apos;&#x0A;- Renamed element: &apos;com.calypso.java.collection.nnnn.java&apos;" description="Rename compilation unit &apos;Map.java&apos;" flags="2" id="org.eclipse.jdt.ui.rename.compilationunit" input="/src&lt;com.calypso.java.collection{Map.java" name="nnnn.java" references="false" stamp="1443665719056" version="1.0"/>
+</session>

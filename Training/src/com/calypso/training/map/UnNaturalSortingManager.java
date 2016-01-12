@@ -1,0 +1,53 @@
+package com.calypso.training.map;
+
+import java.util.ArrayList;
+import java.util.Collections;
+import java.util.List;
+
+public class UnNaturalSortingManager {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		List custList= new ArrayList();
+		
+		custList= new ArrayList();
+		custList.add(new Customer("Fremont",34));
+		custList.add(new Customer("Fresno",24));
+		custList.add(new Customer("Alabama",14));
+		custList.add(new Customer("NewWARK",94));
+		custList.add(new Customer("SJC",64));
+		
+		
+		printResult(custList);
+		
+		//trying to sort the results
+		
+		//Collections.sort(custList);
+		
+		//Sort results by Custom Comparator
+		
+		Collections.sort(custList, new CustomerComparator());
+		System.out.println("After sort");
+		
+		printResult(custList);
+		
+
+	}
+	
+	
+	public static void printResult(List data){
+		for(Object obj:data)
+		{
+			//downcasting (customer)is children class
+			Customer cust=(Customer)obj;
+			System.out.println("SSN"+cust.ssn);
+			System.out.println("Name"+cust.name);
+			
+			
+			
+			
+		}
+		
+		
+	}
+}
